@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\projectTA\projectTA\bin\Debug\projectTA.exe.config
+C:\Users\Lenovo\source\repos\projectTA\projectTA\bin\Debug\projectTA.exe
+C:\Users\Lenovo\source\repos\projectTA\projectTA\bin\Debug\projectTA.pdb
+C:\Users\Lenovo\source\repos\projectTA\projectTA\obj\Debug\projectTA.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\projectTA\projectTA\obj\Debug\projectTA.Form1.resources
+C:\Users\Lenovo\source\repos\projectTA\projectTA\obj\Debug\projectTA.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\projectTA\projectTA\obj\Debug\projectTA.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\projectTA\projectTA\obj\Debug\projectTA.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\projectTA\projectTA\obj\Debug\projectTA.exe
+C:\Users\Lenovo\source\repos\projectTA\projectTA\obj\Debug\projectTA.pdb
+C:\Users\Lenovo\source\repos\projectTA\projectTA\obj\Debug\projectTA.Formtutor.resources
+C:\Users\Lenovo\source\repos\projectTA\projectTA\obj\Debug\projectTA.mainpro.resources
