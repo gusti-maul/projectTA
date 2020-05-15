@@ -70,7 +70,7 @@ namespace projectTA
                 label3.Visible = false;
                 button1.Visible = false;
                 button2.Visible = false;
-                Thread.Sleep(700);
+                Thread.Sleep(200);
 
                 //game score
                 if (radioButton1.Checked)
